@@ -7,7 +7,7 @@ import java.util.concurrent.CountDownLatch;
  * a passi casuali finché non raggiunge il traguardo o viene interrotto (azzoppato).
  * </p>
  *
- * @author Filippo Berti
+ * @author Daniele Scricciolo
  * @version 1.0
  */
 

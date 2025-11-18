@@ -58,9 +58,4 @@ Il progetto è composto da due classi principali:
 Al termine della corsa, troverai un file chiamato **`classifica.txt`** nella directory del progetto contenente tutti i log della simulazione e la classifica finale.
 
 ## 📧 Contatti
-* **Autori:** [Dario Mongardini](https://github.com/mx101001) e [Filippo Berti](https://github.com/bertii1)
-* **Profilo GitHub:** [https://github.com/mx101001](https://github.com/mx101001)
-
----
-
-Licenza: Se non specificato diversamente, si assume un approccio standard di **Open Source**. Si consiglia di aggiungere un file `LICENSE` per specificare la licenza esatta (ad esempio MIT o GPL).
+* **Autore:** Daniele Scricciolo
